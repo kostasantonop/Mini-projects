@@ -1,10 +1,11 @@
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
 # Introduction
 [Course](https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/course/): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων
 
 Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.
 Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project
 
-**Εννοτητες**\
+**Εννοτητες**
  - Εβδομάδα 1: Βασικά στοιχεία
    - mini_project1: Υπολογισμος cos γωνιας δυο ευθειων που δινονται απο τον χρηστη
  - Εβδομάδα 2: Έλεγχος ροής προγράμματος
