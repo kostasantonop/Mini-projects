@@ -1,7 +1,8 @@
 # Introduction
-[Course](https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/course/): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων\\
-Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.\
-Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project\
+[Course](https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/course/): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων
+
+Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.
+Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project
 
 **Εννοτητες**\
  - Εβδομάδα 1: Βασικά στοιχεία
