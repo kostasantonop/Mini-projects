@@ -1,5 +1,6 @@
 # Introduction
-![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)![Static Badge](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 [Course](https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/course/): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων
 
