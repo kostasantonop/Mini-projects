@@ -2,17 +2,7 @@
 [Course]((https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/about): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων\
 Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.\
 Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project\
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
 **Εννοτητες**\
  *Εβδομάδα 1: Βασικά στοιχεία\
    *mini_project1: Υπολογισμος cos γωνιας δυο ευθειων που δινονται απο τον χρηστη\
@@ -26,3 +16,8 @@ Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν 
    -mini_project5: Υλοποιηση διαφορων υπολογισμον με την χρηση generator \
  -Εβδομάδα 6: Αρχεία\
    -mini_project6: Διαβασμα στοιχειων απο .txt αρχειο και περασμα τους σε νεο .txt αρχειο\
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
