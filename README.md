@@ -1,4 +1,4 @@
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 # Introduction
 [Course](https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/course/): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων
 
