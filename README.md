@@ -1,6 +1,7 @@
-![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=yellow)
 # Introduction
+![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
 [Course](https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/course/): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων
+![Static Badge](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.
 Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project
