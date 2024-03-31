@@ -1,8 +1,8 @@
-# Introduction
-Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.
-Oνομα [online course] (https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/about): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων 
-Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project
-**Εννοτητες**
+# Introduction\
+Mini Projects, πολυ μικρα σε εκταση, που καλυπτουν τα θεμελια της python.\
+Oνομα [online course] (https://coursity.gr/courses/course-v1:UOI+Prog1+2024_T1/about): Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων\
+Καθε θεματικη εννοτητα αντιστοιχει σε ενα mini_project\
+**Εννοτητες**\
  -Εβδομάδα 1: Βασικά στοιχεία\
    -mini_project1: Υπολογισμος cos γωνιας δυο ευθειων που δινονται απο τον χρηστη\
  -Εβδομάδα 2: Έλεγχος ροής προγράμματος\
