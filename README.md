@@ -1,4 +1,4 @@
-# Introduction
+# Εισαγωγή στον Προγραμματισμό με Python - Πανεπιστήμιο Ιωαννίνων
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/VS%20Code%20-%20black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
